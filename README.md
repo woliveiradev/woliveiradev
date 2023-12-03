@@ -22,9 +22,9 @@
 [![Github Actions Badge](https://img.shields.io/badge/Actions-github?style=flat-square&logo=githubactions&logoColor=white&color=%232088FF)](https://github.com/features/actions)
 [![AWS Badge](https://img.shields.io/badge/AWS-Amazon?style=flat-square&logo=amazonaws&logoColor=white&color=%23232F3E)](https://aws.amazon.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woliveiradev&show_icons=true&theme=radical)
+<img decoding="async" loading="lazy" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=woliveiradev&show_icons=true&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiradev&layout=compact&theme=radical)
+<img decoding="async" loading="lazy" alt="Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiradev&layout=compact&theme=radical" />
 
 ## 💌 Contato
 
